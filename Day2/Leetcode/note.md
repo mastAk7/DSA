@@ -1,0 +1,1 @@
+also attemped the biweekly contest but was unable to solve even a question (50 min spend in total)
