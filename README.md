@@ -2,8 +2,8 @@
 
 ## Day 1 
 ### Summary
-- Learned about arrays and their basic operations.
-- Solved 5 problems on array traversal and manipulation.
+- Revised concepts and solve questions on 2 pointers
+- Solved LeetCode Daily Question
 
 ### Problems Solved
 - [Problem 1: Broken Keyboard (CodeForces)](https://codeforces.com/problemset/problem/1251/A)
