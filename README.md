@@ -1,8 +1,10 @@
 # Daily Progress in DSA
+- [LeetCode](https://leetcode.com/u/Kansal07/)
+- [CodeForces](https://codeforces.com/profile/MasterAK07)
 
 ## Day 1 
 ### Summary
-- Revised concepts and solve questions on 2 pointers
+- Revised concepts and solved questions on 2 pointers
 - Solved LeetCode Daily Question
 - Participated in LeetCode Weekly Constest and CodeForces Div 2 2102
 
@@ -17,6 +19,19 @@
 - [Problem 8: contest 2102A (CodeForces)](https://codeforces.com/contest/2102/problem/B)
 
 ---
+
+## Day 2
+### Summary
+- Solved LeetCode daily question
+- Revised sorting and solved questions on leetCode
+
+### Problems Solved
+- [Problem 1: LeetCode 2094](https://leetcode.com/problems/finding-3-digit-even-numbers/)
+- [Problem 2: LeetCode 561](https://leetcode.com/problems/array-partition/)
+- [Problem 3: LeetCode 969](https://leetcode.com/problems/pancake-sorting/)
+- [Problem 4: LeetCode 1647](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
+- [Problem 5: LeetCode 493](https://leetcode.com/problems/reverse-pairs/)
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
