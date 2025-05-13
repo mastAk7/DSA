@@ -32,6 +32,18 @@
 - [Problem 4: LeetCode 1647](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)
 - [Problem 5: LeetCode 493](https://leetcode.com/problems/reverse-pairs/)
 
+---
+
+## Day 3
+### Summary
+- Solved LeetCode daily question
+- Solved mixed questions on leetCode
+
+### Problems Solved
+- [Problem 1: LeetCode 3335](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/)
+- [Problem 2: LeetCode 18](https://leetcode.com/problems/4sum/)
+- [Problem 3: LeetCode 15](https://leetcode.com/problems/3sum/)
+- [Problem 4: LeetCode 56](https://leetcode.com/problems/merge-intervals/)
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
