@@ -44,6 +44,15 @@
 - [Problem 2: LeetCode 18](https://leetcode.com/problems/4sum/)
 - [Problem 3: LeetCode 15](https://leetcode.com/problems/3sum/)
 - [Problem 4: LeetCode 56](https://leetcode.com/problems/merge-intervals/)
+
+---
+
+## Day 4
+### Summary
+- Solved LeetCode daily question using matrix exponentiation
+
+### Problems Solved
+- [Problem 1: LeetCode 3337](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/)
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
