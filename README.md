@@ -53,6 +53,15 @@
 
 ### Problems Solved
 - [Problem 1: LeetCode 3337](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/)
+
+---
+
+## Day 5
+### Summary
+- Solved LeetCode daily question
+
+### Problems Solved
+- [Problem 1: LeetCode 2900](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/)
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
