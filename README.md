@@ -62,6 +62,24 @@
 
 ### Problems Solved
 - [Problem 1: LeetCode 2900](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/)
+
+---
+
+## Day 6
+### Summary
+- Solved LeetCode daily question
+
+### Problems Solved
+- [Problem 1: LeetCode 2901](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/)
+
+---
+
+## Day 7
+### Summary
+- Solved LeetCode daily question
+
+### Problems Solved
+- [Problem 1: LeetCode 75](https://leetcode.com/problems/sort-colors/)
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
