@@ -80,6 +80,33 @@
 
 ### Problems Solved
 - [Problem 1: LeetCode 75](https://leetcode.com/problems/sort-colors/)
+
+---
+
+## Day 8
+### Summary
+- Solved LeetCode daily question
+- Solved 2 questions in LeetCode 18MAY25 Contest
+- Solved 2 questions in CodeForces 18MAY25 Contest
+- Revised recursion and Dynamic Programming, practiced and solved questions
+
+### Problems Solved
+- Problem 1: Implmentation of Quick Sort
+- Problem 2: Smallest Kth element using Quick Sort algorithm (Quick Selection)
+- Problem 3: Generating Parenthesis
+- Problem 4: Generating Valid Parenthesis
+- Problem 5: Implementation of Tower of Hanoi
+- Problem 6: Generating all possible Coin Toss Combinations
+- Problem 7: Generating all possible Coin Toss Combinations with restrictions
+- [Problem 8: LeetCode 8](https://leetcode.com/problems/string-to-integer-atoi/)
+- [Problem 9: LeetCode 1931](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/)
+- [Problem 10: LeetCode 2375](https://leetcode.com/problems/construct-smallest-number-from-di-string/)
+- [Problem 11: LeetCode Contest Q1](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)
+- [Problem 12: LeetCode Contest Q2](https://leetcode.com/problems/grid-teleportation-traversal/)
+- [Problem 13: CodeForces Contest Q1](https://codeforces.com/contest/2109/problem/A)
+- [Problem 14: CodeForces Contest Q2](https://codeforces.com/contest/2109/problem/B)
+
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
