@@ -106,6 +106,19 @@
 - [Problem 13: CodeForces Contest Q1](https://codeforces.com/contest/2109/problem/A)
 - [Problem 14: CodeForces Contest Q2](https://codeforces.com/contest/2109/problem/B)
 
+---
+
+## Day 9
+### Summary
+- Solved LeetCode daily question
+- Advanced recursion, practiced and solved questions
+
+### Problems Solved
+- Problem 1: Ladder's Problem
+- Problem 2: Permutation Sum
+- [Problem 3: LeetCode 39](https://leetcode.com/problems/combination-sum/)
+- [Problem 4: LeetCode 3024](https://leetcode.com/problems/type-of-triangle/)
+
 
 <!-- 
 ## Notes
