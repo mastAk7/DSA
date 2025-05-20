@@ -119,6 +119,15 @@
 - [Problem 3: LeetCode 39](https://leetcode.com/problems/combination-sum/)
 - [Problem 4: LeetCode 3024](https://leetcode.com/problems/type-of-triangle/)
 
+---
+
+## Day 10
+### Summary
+- Solved LeetCode daily question using difference array
+
+### Problems Solved
+- [Problem 1: LeetCode 3355](https://leetcode.com/problems/zero-array-transformation-i/)
+
 
 <!-- 
 ## Notes
