@@ -128,6 +128,18 @@
 ### Problems Solved
 - [Problem 1: LeetCode 3355](https://leetcode.com/problems/zero-array-transformation-i/)
 
+---
+
+## Day 11
+### Summary
+- Solved LeetCode daily question using difference array
+- Participated in codeChef contest - 187D and solved 2 questions
+
+### Problems Solved
+- [Problem 1: LeetCode 72](https://leetcode.com/problems/set-matrix-zeroes/)
+- [Problem 2: CofChef Contest Exercise and Rest](https://www.codechef.com/START187D/problems/EXREST)
+- [Problem 3: CofChef Contest Chococut](https://www.codechef.com/START187D/problems/CHOCUT)
+
 
 <!-- 
 ## Notes
