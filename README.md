@@ -140,6 +140,18 @@
 - [Problem 2: CofChef Contest Exercise and Rest](https://www.codechef.com/START187D/problems/EXREST)
 - [Problem 3: CofChef Contest Chococut](https://www.codechef.com/START187D/problems/CHOCUT)
 
+---
+
+## Day 12
+### Summary
+- Solved LeetCode daily question 
+- Participated recursion
+
+### Problems Solved
+- [Problem 1: LeetCode 51](https://leetcode.com/problems/n-queens/)
+- [Problem 2: LeetCode 52](https://leetcode.com/problems/n-queens-ii/)
+- [Problem 3: LeetCode 3362](https://leetcode.com/problems/zero-array-transformation-iii/)
+
 
 <!-- 
 ## Notes
