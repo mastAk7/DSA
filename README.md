@@ -152,6 +152,17 @@
 - [Problem 2: LeetCode 52](https://leetcode.com/problems/n-queens-ii/)
 - [Problem 3: LeetCode 3362](https://leetcode.com/problems/zero-array-transformation-iii/)
 
+---
+
+## Day 13
+### Summary
+- Solved LeetCode daily question 
+- Participated recursion
+
+### Problems Solved
+- [Problem 1: LeetCode 79](https://leetcode.com/problems/word-search/)
+- [Problem 2: LeetCode 3068](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/)
+
 
 <!-- 
 ## Notes
