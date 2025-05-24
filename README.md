@@ -164,6 +164,21 @@
 - [Problem 2: LeetCode 3068](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/)
 
 
+---
+
+## Day 14
+### Summary
+- Solved LeetCode daily question 
+- Participated in LeetCode contest and tried to solve a question
+- Participated in CodeForces contest, solved one question and tried one
+
+### Problems Solved
+- [Problem 1: LeetCode 2942](https://leetcode.com/problems/find-words-containing-character/)
+- [Problem 2: LeetCode Contest Q1](https://leetcode.com/problems/sum-of-largest-prime-substrings/)
+- [Problem 3: CodeForces Contest Q1](https://codeforces.com/contest/2110/problem/A)
+- [Problem 4: CodeForces Contest Q2](https://codeforces.com/contest/2110/problem/B)
+
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
