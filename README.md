@@ -187,6 +187,19 @@
 ### Problems Solved
 - [Problem 1: LeetCode 2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)
 
+---
+
+## Day 16
+### Summary
+- Solved LeetCode daily question 
+- Practised three prefix sum questions
+
+### Problems Solved
+- [Problem 1: LeetCode 724](https://leetcode.com/problems/find-pivot-index/)
+- [Problem 2: LeetCode 1732](https://leetcode.com/problems/find-the-highest-altitude/)
+- [Problem 3: LeetCode 1857](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+- [Problem 4: LeetCode 1991](https://leetcode.com/problems/find-the-middle-index-in-array/)
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
