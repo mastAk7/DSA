@@ -200,6 +200,17 @@
 - [Problem 3: LeetCode 1857](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
 - [Problem 4: LeetCode 1991](https://leetcode.com/problems/find-the-middle-index-in-array/)
 
+---
+
+## Day 17
+### Summary
+- Solved LeetCode daily question 
+- Practised sliding window
+
+### Problems Solved
+- [Problem 1: LeetCode 2390](https://leetcode.com/problems/removing-stars-from-a-string/)
+- [Problem 2: LeetCode 2894](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
