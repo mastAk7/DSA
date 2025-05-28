@@ -211,6 +211,22 @@
 - [Problem 1: LeetCode 2390](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Problem 2: LeetCode 2894](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)
 
+---
+
+## Day 18
+### Summary
+- Solved LeetCode daily question 
+- Practised sliding window
+
+### Problems Solved
+- [Problem 1: LeetCode 3372](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)
+- [Problem 2: LeetCode 79](https://leetcode.com/problems/word-search/)
+- [Problem 3: Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)
+- [Problem 4: LeetCode 131](https://leetcode.com/problems/palindrome-partitioning/)
+- [Problem 5: LeetCode 47](https://leetcode.com/problems/permutations-ii/)
+- [Problem 6: LeetCode 40](https://leetcode.com/problems/combination-sum-ii/)
+- [Problem 7: LeetCode 10](https://leetcode.com/problems/regular-expression-matching/)
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
