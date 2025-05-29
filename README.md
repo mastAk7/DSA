@@ -216,7 +216,7 @@
 ## Day 18
 ### Summary
 - Solved LeetCode daily question 
-- Practised sliding window
+- Practised recursion
 
 ### Problems Solved
 - [Problem 1: LeetCode 3372](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)
@@ -226,6 +226,23 @@
 - [Problem 5: LeetCode 47](https://leetcode.com/problems/permutations-ii/)
 - [Problem 6: LeetCode 40](https://leetcode.com/problems/combination-sum-ii/)
 - [Problem 7: LeetCode 10](https://leetcode.com/problems/regular-expression-matching/)
+
+---
+
+## Day 19
+### Summary
+- Solved LeetCode daily question 
+- Practised linked list and array rotation
+
+### Problems Solved
+- [Problem 1: LeetCode 3373](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/)
+- [Problem 2: LeetCode 48](https://leetcode.com/problems/rotate-image/)
+- Problem 3: Linked List Insertion
+- Problem 4: Linked List Deletion
+- [Problem 5: LeetCode 876](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [Problem 6: LeetCode 206](https://leetcode.com/problems/reverse-linked-list/)
+- [Problem 7: LeetCode 25](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [Problem 8: LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)
 
 <!-- 
 ## Notes
