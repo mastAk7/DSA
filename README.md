@@ -244,6 +244,26 @@
 - [Problem 7: LeetCode 25](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [Problem 8: LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)
 
+---
+
+## Notes
+- The long due to critical health condition and hence personal break for the same, will try my best to avoid such a thing again.
+
+---
+
+## Day 20
+### Summary
+- Solved LeetCode daily question 
+- Practised linked list
+- Solved 4 and tried 2 questions in CodeForces Div 3 Contest 
+
+### Problems Solved
+- [Problem 1: LeetCode 2359](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)
+- [Problem 2: CodeForces Div 3A](https://codeforces.com/contest/2121/A)
+- [Problem 3: CodeForces Div 3B](https://codeforces.com/contest/2121/B)
+- [Problem 4: CodeForces Div 3C](https://codeforces.com/contest/2121/C)
+- [Problem 5: CodeForces Div 3D](https://codeforces.com/contest/2121/D)
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
