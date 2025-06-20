@@ -264,6 +264,19 @@
 - [Problem 4: CodeForces Div 3C](https://codeforces.com/contest/2121/C)
 - [Problem 5: CodeForces Div 3D](https://codeforces.com/contest/2121/D)
 
+---
+
+## Day 21
+### Summary
+- Solved LeetCode daily question 
+- Practised random questions on LeetCode
+
+### Problems Solved
+- [Problem 1: LeetCode 3443](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/)
+- [Problem 2: LeetCode 1863](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
+- [Problem 3: LeetCode 2529](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
+- [Problem 4: LeetCode 2294](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
