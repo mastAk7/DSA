@@ -277,6 +277,19 @@
 - [Problem 3: LeetCode 2529](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
 - [Problem 4: LeetCode 2294](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)
 
+---
+
+## Day 22
+### Summary
+- Solved LeetCode daily question 
+- Practised random questions on LeetCode
+
+### Problems Solved
+- [Problem 1: LeetCode 1702](https://leetcode.com/problems/maximum-binary-string-after-change/)
+- [Problem 2: LeetCode 2311](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/)
+- [Problem 3: LeetCode 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+- [Problem 4: LeetCode 2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
+
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
