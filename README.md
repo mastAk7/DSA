@@ -290,6 +290,16 @@
 - [Problem 3: LeetCode 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 - [Problem 4: LeetCode 2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)
 
+---
+
+## Day 23
+### Summary
+- Solved LeetCode daily question 
+- Practised random questions on LeetCode
+
+### Problems Solved
+- [Problem 1: LeetCode 2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
+- [Problem 2: LeetCode 1318](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 <!-- 
 ## Notes
 - Add any additional notes or observations here.
