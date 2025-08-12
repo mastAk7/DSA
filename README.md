@@ -294,18 +294,37 @@
 
 ## Day 23
 ### Summary
-- Solved LeetCode daily question 
+- Solved LeetCode daily question
 - Practised random questions on LeetCode
 
 ### Problems Solved
 - [Problem 1: LeetCode 2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
 - [Problem 2: LeetCode 1318](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
-<!-- 
-## Notes
-- Add any additional notes or observations here.
-- Keep track of challenges faced and how you overcame them.
 
 ---
 
+## Day 24
+### Summary
+- Revising DSA in C++ from the very basics :
+    - Number System & Operators
+    - Functions
+    - Pointers
+    - Arrays, Strings and Character Arrays
+    - In-built Sort, strtok() 
+
+
+## Notes
+- My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
+- For the next 20 days, I went severely ill and hence it backlashed too hard to me.
+- Towards the end of June, I got hired by good company and was giving the task of developing their website (Vardhman Airport Solutions) and hence the remaining June and entire July went to them.
+- Now that everything is over, I am back onto giving all my energy to my Coding Journey.
+
+---
+
+
 ## Future Goals
-- Mention your upcoming plans or topics to cover. -->
+- I would be regular now on while I am aiming to get a rating of 1600 on both CodeForces and LeetCode.
+- I would be covering upto recursion, Linked Lists, Trees this week.
+- For the next, I would be covering and hence solving questions on DP.
+- The last week of this month would be going to graphs, mapping, hashtables and remainging algorithms and data structures.
+- Next month onwards, I will be full fledged resuming my CP journey.
