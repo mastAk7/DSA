@@ -312,6 +312,17 @@
     - Arrays, Strings and Character Arrays
     - In-built Sort, strtok() 
 
+---
+
+## Day 25
+### Summary
+- Revised recursion
+- Tomorrow I would be solving sudoku solver and hence would wind up recursion proceding with the next topic.
+
+### Problems Solved
+- [Problem 1: LeetCode 36](https://leetcode.com/problems/valid-sudoku/)
+- A cute hacker kind of string animation 
+
 
 ## Notes
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
