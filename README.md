@@ -323,6 +323,20 @@
 - [Problem 1: LeetCode 36](https://leetcode.com/problems/valid-sudoku/)
 - A cute hacker kind of string animation 
 
+---
+
+## Day 26
+### Summary
+- Revised recursion in detail and solved related questions
+- Tomorrow would be doing sudoku solver and NQueens and hence move on to the next topic.
+
+### Problems Solved
+- Next Permutation
+- Combination Target Sum
+- Merge Sort Implementation
+- Tower of Hanoi
+- Rat in Maze
+
 
 ## Notes
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
