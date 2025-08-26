@@ -337,6 +337,15 @@
 - Tower of Hanoi
 - Rat in Maze
 
+---
+
+## Day 27
+### Summary
+- Solved NQueens & Sudoku Solver
+
+### Problems Solved
+- [Problem 1: LeetCode 51](https://leetcode.com/problems/n-queens/)
+- [Problem 2: LeetCode 37](https://leetcode.com/problems/sudoku-solver/)
 
 ## Notes
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
