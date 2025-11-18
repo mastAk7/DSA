@@ -359,11 +359,14 @@
 - Give my maximum input in contests.
 - 8 Dec my endsems would end and i would get my CF and LeetCode rating to 1600 by the end of this year.
 
-## Notes
+## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
 - Towards the end of June, I got hired by good company and was giving the task of developing their website (Vardhman Airport Solutions) and hence the remaining June and entire July went to them.
 - Now that everything is over, I am back onto giving all my energy to my Coding Journey.
+
+## Note 2
+- Was just inactive on github and that is it. DSA is going good enough
 
 ---
 
