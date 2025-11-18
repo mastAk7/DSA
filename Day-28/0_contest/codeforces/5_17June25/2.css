@@ -1,0 +1,44 @@
+
+.box {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: 30px;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+}
+
+.one {
+    background-color: aquamarine;
+    flex: 10%;
+    border-style: solid;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    height: 250px;
+    padding-top: 20px;
+
+}
+
+@media (max-width: 800px) { 
+    /* .box {
+        background-color: rgb(198, 16, 16);
+    } */
+
+    .one {
+        flex: 40%;
+    }
+}
+
+@media (max-width: 300px) {
+    /* .box {
+        background-color: blueviolet;
+    } */
+
+    .one {
+        flex: 100%;
+    }
+}
+
+    

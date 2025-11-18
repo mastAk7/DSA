@@ -347,6 +347,18 @@
 - [Problem 1: LeetCode 51](https://leetcode.com/problems/n-queens/)
 - [Problem 2: LeetCode 37](https://leetcode.com/problems/sudoku-solver/)
 
+---
+
+## Day 28
+### Summary
+- So basically I have been inactive for a long time but that was about THE REPO and NOT DSA. I have progressed significantly. Explained it precisely 
+[here](./Day-28/README.md)
+
+### Future Goals
+- Aiming to master DP, Graphs and Trees before the 2nd week of december.
+- Give my maximum input in contests.
+- 8 Dec my endsems would end and i would get my CF and LeetCode rating to 1600 by the end of this year.
+
 ## Notes
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
