@@ -359,11 +359,33 @@
 - Give my maximum input in contests.
 - 8 Dec my endsems would end and i would get my CF and LeetCode rating to 1600 by the end of this year.
 
+---
+
+## Day 28
+### Summary
+- Solved questions on array and stacks
+- Would be revising and solving monotonic stacks tomorrow.
+
+### Problems Solved
+- [Problem 1: LeetCode 1929](https://leetcode.com/problems/concatenation-of-array/)
+- [Problem 2: LeetCode 1470](https://leetcode.com/problems/shuffle-the-array/)
+- [Problem 3: LeetCode 485](https://leetcode.com/problems/max-consecutive-ones/)
+- [Problem 4: LeetCode 645](https://leetcode.com/problems/set-mismatch/)
+- [Problem 5: LeetCode 1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+- [Problem 6: LeetCode 448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [Problem 7: LeetCode 1441](https://leetcode.com/problems/build-an-array-with-stack-operations/)
+- [Problem 8: LeetCode 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [Problem 9: LeetCode 636](https://leetcode.com/problems/exclusive-time-of-functions/)
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
 - Towards the end of June, I got hired by good company and was giving the task of developing their website (Vardhman Airport Solutions) and hence the remaining June and entire July went to them.
 - Now that everything is over, I am back onto giving all my energy to my Coding Journey.
+
+---
 
 ## Note 2
 - Was just inactive on github and that is it. DSA is going good enough
