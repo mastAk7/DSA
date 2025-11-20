@@ -361,7 +361,7 @@
 
 ---
 
-## Day 28
+## Day 29
 ### Summary
 - Solved questions on array and stacks
 - Would be revising and solving monotonic stacks tomorrow.
@@ -377,6 +377,15 @@
 - [Problem 8: LeetCode 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [Problem 9: LeetCode 636](https://leetcode.com/problems/exclusive-time-of-functions/)
 
+---
+
+## Day 29
+### Summary
+- Solved a basic dp question on leetcode
+- Would be doing DP tomorrow
+
+### Problems Solved
+- [Problem 1: LeetCode 1137](https://leetcode.com/problems/n-th-tribonacci-number/)
 ---
 
 ## Note 1
