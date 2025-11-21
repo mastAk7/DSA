@@ -379,13 +379,26 @@
 
 ---
 
-## Day 29
+## Day 30
 ### Summary
 - Solved a basic dp question on leetcode
 - Would be doing DP tomorrow
 
 ### Problems Solved
 - [Problem 1: LeetCode 1137](https://leetcode.com/problems/n-th-tribonacci-number/)
+
+---
+
+## Day 31
+### Summary
+- Solved dp questions and diving deep into it
+- would be continuing it tomorrow as well, may do segment trees (dynamic ranged queries)
+
+### Problems Solved
+- [Problem 1: LeetCode 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [Problem 1: LeetCode 198](https://leetcode.com/problems/house-robber/)
+
+
 ---
 
 ## Note 1
