@@ -396,7 +396,26 @@
 
 ### Problems Solved
 - [Problem 1: LeetCode 746](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [Problem 1: LeetCode 198](https://leetcode.com/problems/house-robber/)
+- [Problem 2: LeetCode 198](https://leetcode.com/problems/house-robber/)
+
+---
+
+## Day 32
+### Summary
+- Solved dp questions and practiced real good: handling time and space complexity and improving it in bottom up approach
+- Solved random questions on leetcode
+- Would be doing the same again tomorrow
+
+### Problems Solved
+- [Problem 1: LeetCode 89](https://leetcode.com/problems/gray-code/)
+- [Problem 2: CodeForces 977F](https://codeforces.com/problemset/problem/977/F)
+- [Problem 3: LeetCode 5](https://leetcode.com/problems/longest-palindromic-substring/)
+- [Problem 4: LeetCode 7](https://leetcode.com/problems/reverse-integer/)
+- [Problem 5: LeetCode 6](https://leetcode.com/problems/zigzag-conversion/)
+- [Problem 6: LeetCode 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [Problem 7: LeetCode 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [Problem 8: LeetCode 23](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Problem 9: LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 
 ---
