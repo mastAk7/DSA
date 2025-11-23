@@ -417,6 +417,15 @@
 - [Problem 8: LeetCode 23](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [Problem 9: LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
+---
+
+## Day 33
+### Summary
+- Solved just a random question on leetcode.
+- Having midsems this week so would be solving random questions daily
+
+### Problems Solved
+- [Problem 1: LeetCode 38](https://leetcode.com/problems/count-and-say/)
 
 ---
 
