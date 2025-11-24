@@ -429,6 +429,19 @@
 
 ---
 
+## Day 34
+### Summary
+- Solved some good questions on dp and monotonic stacks
+- gonna keep it slow for a while
+
+### Problems Solved
+- [Problem 1: LeetCode 1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)
+- [Problem 2: LeetCode 739](https://leetcode.com/problems/daily-temperatures/)
+- [Problem 3: CSES DP 1638](https://cses.fi/problemset/task/1638)
+- [Problem 4: CSES DP 1636](https://cses.fi/problemset/task/1636)
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
