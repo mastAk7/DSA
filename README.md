@@ -442,9 +442,15 @@
 
 ---
 
-## Day 34
+## Day 35
 ### Summary
 - Didnt solve any question as such but studied oops in c++ as well as java in detail
+
+---
+
+## Day 36
+### Summary
+- Didnt solve any question as such (involved in endsems)
 
 ---
 
