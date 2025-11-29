@@ -463,6 +463,17 @@
 
 ---
 
+## Day 38
+### Summary
+- Solved random questions on leetcode
+
+- [Problem 1: LeetCode 1657](https://leetcode.com/problems/determine-if-two-strings-are-close/)
+- [Problem 2: LeetCode 2352](https://leetcode.com/problems/equal-row-and-column-pairs/)
+- [Problem 3: LeetCode 1004](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [Problem 3: LeetCode 1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
