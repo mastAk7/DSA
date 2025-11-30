@@ -474,6 +474,12 @@
 
 ---
 
+## Day 39
+### Summary
+- Tried solving a question on leetcode
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
