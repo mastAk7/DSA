@@ -480,6 +480,15 @@
 
 ---
 
+## Day 40
+### Summary
+- Solved a LeetCode random question
+- Since exams over, back on track
+
+- [Problem 1: LeetCode 59](https://leetcode.com/problems/spiral-matrix-ii/)
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
