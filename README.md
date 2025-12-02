@@ -489,6 +489,16 @@
 
 ---
 
+## Day 41
+### Summary
+- Solved random questions on leetcode
+
+- [Problem 1: LeetCode 216](https://leetcode.com/problems/combination-sum-iii/)
+- [Problem 2: LeetCode 394](https://leetcode.com/problems/decode-string/)
+- [Problem 3: LeetCode 443](https://leetcode.com/problems/string-compression/)
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
