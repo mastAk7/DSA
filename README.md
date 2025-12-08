@@ -516,6 +516,17 @@
 
 ---
 
+## Day 44
+### Summary
+- Solved leetcode daily question
+- Practiced DP real good: solved complex questions using both bottom up and top down approaches
+
+- [Problem 1: LeetCode 1925](https://leetcode.com/problems/count-square-sum-triples/)
+- Problem 2: Minimum Steps to reach 1 from n
+- Problem 3: Wine Problem
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
