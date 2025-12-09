@@ -527,6 +527,17 @@
 
 ---
 
+## Day 45
+### Summary
+- Solved leetcode daily question
+- Practiced DP real good: solved complex questions using both bottom up and top down approaches
+
+- [Problem 1: LeetCode 3583](https://leetcode.com/problems/count-special-triplets/)
+- [Problem 2: LeetCode 1143](https://leetcode.com/problems/longest-common-subsequence/)
+- [Problem 3: LeetCode 72](https://leetcode.com/problems/edit-distance/)
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
