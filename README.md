@@ -563,6 +563,16 @@
 
 ---
 
+## Day 48
+### Summary
+- Solved leetcode daily question and some random questions.
+- Studied trees theory and implemented practically
+- Both LC and CF ratings increased -> LC: 1330, CF: 1260
+
+- [Problem 1: LeetCode 3571](https://leetcode.com/problems/count-mentions-per-user/)
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
