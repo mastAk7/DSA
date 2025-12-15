@@ -573,6 +573,17 @@
 
 ---
 
+## Day 49
+### Summary
+- Solved leetcode daily question of today and past two days
+- Studied trees theory and implemented practically
+
+- [Problem 1: LeetCode 3606](https://leetcode.com/problems/coupon-code-validator/)
+- [Problem 2: LeetCode 2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)
+- [Problem 3: LeetCode 2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/)
+
+---
+
 ## Note 1
 - My summer break began from mid may and hence I decided to polish my skills. The first month everything went on track: maintained a month long streak on leetcode, maintained a good rating on codeForces and LeetCode.
 - For the next 20 days, I went severely ill and hence it backlashed too hard to me.
