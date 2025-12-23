@@ -1,0 +1,68 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define loop(i, a, n) for (lli i = (a); i < (n); ++i)
+#define loopD(i, a, n) for (lli i = (a); i >= (n); --i)
+#define all(c) (c).begin(), (c).end()
+#define rall(c) (c).rbegin(), (c).rend()
+#define sz(a) ((int)a.size())
+#define YES cout << "YES" << endl;
+#define NO cout << "NO" << endl;
+#define endl '\n'
+#define fastio std::ios::sync_with_stdio(false), cin.tie(NULL), cout.tie(NULL);
+#define pb push_back
+#define pp pop_back()
+#define fi first
+#define si second
+#define v(a) vector<int>(a)
+#define vv(a) vector<vector<int>>(a)
+#define present(c, x) ((c).find(x) != (c).end())
+#define set_bits __builtin_popcountll
+#define MOD 1000000007
+#define int long long
+
+typedef long long lli;
+typedef vector<int> vi;
+typedef vector<vi> vvi;
+typedef pair<lli, lli> pll;
+typedef pair<int, int> pii;
+typedef unordered_map<int, int> umpi;
+typedef map<int, int> mpi;
+typedef vector<pii> vp;
+typedef vector<lli> vll;
+typedef vector<vll> vvll;
+
+using ll = long long;
+
+int32_t main()
+{
+    fastio;
+
+#ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+#endif
+
+    int tc = 1;
+    cin >> tc;
+    while (tc--)
+    {
+        int n;
+        cin>>n;
+        vi f(n);
+        for(int &x:f) cin>>x;
+        int mn1 = INT_MAX, mn2 = INT_MAX;
+        for (int x : f) {
+            if (x < mn1) {
+                mn2 = mn1;
+                mn1 = x;
+            } else if (x > mn1 && x < mn2) {
+                mn2 = x;
+            }
+        }
+        if((mn2>mn1*2) && mn2%(mn2-mn1)==mn1) cout<<mn2-mn1<<endl;
+        else cout<<mn1<<endl;
+
+    }
+    return 0;
+}
